@@ -1,0 +1,30 @@
+
+#layout{
+    width: 60%;
+    margin:auto;
+}
+
+#wd{
+    margin-bottom: 10px;
+    padding:20px;
+    background-color: #7B74C7;
+}
+
+#search{
+    height: 40px;
+    width:100px;
+    background-color: blue;
+    color: white;
+}
+#dictionary{
+    height: 40px;
+    padding-left: 10px;
+}
+
+#wd h1{
+    color: white;
+}
+#wSearch{
+    background-color: #BFD2CD;
+    padding:20px;
+}

@@ -1,1 +1,1 @@
-# info2180-lab6
+# INFO2180-lab6
