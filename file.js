@@ -10,7 +10,7 @@ function query(word){
         if(request.readyState === XMLHttpRequest.DONE ){
             if(request.status === 200){
                 let response = request.responseText;
-               alert(response) ;
+                document.getElementById("result").innerHTML = response;
             }else{
                 alert("Error Detected");
             }
