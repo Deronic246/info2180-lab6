@@ -16,6 +16,12 @@
     background-color: blue;
     color: white;
 }
+#gdef{
+    height: 40px;
+    width:100px;
+    background-color: blue;
+    color: white;
+}
 #dictionary{
     height: 40px;
     padding-left: 10px;
